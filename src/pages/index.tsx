@@ -4,7 +4,6 @@ export default function Home() {
 	return (
     <>
     <Seo title="Coders Monkey" description="description..."/>
-    <h1>Hello World</h1>
     </>
   );
 }

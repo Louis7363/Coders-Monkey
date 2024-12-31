@@ -2,7 +2,6 @@
 module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx,mdx}"],
   theme: {
-
     colors: {
       white: "#FFFFFF",
       primary: {
@@ -26,12 +25,8 @@ module.exports = {
         700: "#808080",
         800: "#333333",
         DEFAULT: "#1d1d1d",
-      }
-
-
-
+      },
     },
-
 
     fontSize: {
       "8xl": [
